@@ -1,4 +1,4 @@
-# tinydj
+# TinyDJ
 Pocket Sized DJ Controller Project
 
 # About
