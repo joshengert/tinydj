@@ -8,7 +8,7 @@ TinyDJ is an open-source, [Arduino Nano Every](https://store-usa.arduino.cc/prod
 # Plans/Goals
 
 - As close to the size of a credit card as possible (currently correct width)
-- Control most major DJ software, such as ([Rekordbox](https://rekordbox.com/en/), [Serato](https://serato.com/) and [DJay Pro](https://www.algoriddim.com/djay-ios) for iOS for a portable real-life use case.
+- Control most major DJ software, such as [Rekordbox](https://rekordbox.com/en/), [Serato](https://serato.com/) and [DJay Pro](https://www.algoriddim.com/djay-ios) for iOS for a portable real-life use case.
 
 # Parts Needed (links coming)
 - 1 x TinyDJ PCB
