@@ -1,7 +1,7 @@
 # TinyDJ
 Pocket Sized DJ Controller Project
 
-![Current PCB Design](https://github.com/joshengert/tinydj/blob/main/Images/board%20v1.2.png)
+![Current PCB Design](https://github.com/joshengert/tinydj/blob/main/Images/board%20v1.3.png)
 
 # About
 
